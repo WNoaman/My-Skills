@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis **[EL GHOULBZOURI Noaman]**
+# 👋 Salut, je suis **EL GHOULBZOURI Noaman**
 
 ### 💻 Développeur Full Stack
 
@@ -53,6 +53,8 @@
 
 <div align="center">
 
-              ### +212684941214
+![Téléphone](https://img.shields.io/badge/T%C3%A9l%C3%A9phone-%2B212_6_00_00_00_00-2EA44F?style=for-the-badge)
+
+📞 **+212 6 84 94 12 14**
 
 </div>
