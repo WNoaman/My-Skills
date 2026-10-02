@@ -53,7 +53,7 @@
 
 <div align="center">
 
-![Téléphone](https://img.shields.io/badge/T%C3%A9l%C3%A9phone-%2B212_6_00_00_00_00-2EA44F?style=for-the-badge)
+![Téléphone]
 
 📞 **+212 6 84 94 12 14**
 
