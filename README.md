@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis **[Ton Nom]**
+# 👋 Salut, je suis **[EL GHOULBZOURI Noaman]**
 
 ### 💻 Développeur Full Stack
 
@@ -53,9 +53,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton-pseudo)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ton-pseudo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+Contact : +212684941214
 
 </div>
