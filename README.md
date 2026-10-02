@@ -53,7 +53,7 @@
 
 <div align="center">
 
-![Téléphone]
+
 
 📞 **+212 6 84 94 12 14**
 
